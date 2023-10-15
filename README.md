@@ -1,2 +1,2 @@
-# MIniprojects
-This repo contains mini data analysis projects 
+#  Data Analysis projects 
+This repo contains my data analysis projects 
